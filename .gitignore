@@ -1,0 +1,19 @@
+# 忽略 PyCharm 的配置文件夾
+.idea/
+
+# 忽略 node_modules 目錄
+node_modules/
+
+# 忽略其他 .py 文件，僅推送 app.py
+*.py
+!app.py
+
+# 忽略 package-lock.json 和 package.json 如果不需要推送這些文件
+package-lock.json
+package.json
+
+*.mp4
+
+*.pt
+
+output_videos/
