@@ -1,0 +1,11 @@
+flask~=2.2.2
+line-bot-sdk
+
+requests~=2.31.0
+opencv-python~=4.9.0.80
+numpy~=1.24.3
+ultralytics~=8.1.5
+shapely~=2.0.3
+boto3~=1.34.158
+botocore~=1.34.158
+moviepy~=1.0.3
