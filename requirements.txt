@@ -10,3 +10,4 @@ boto3~=1.34.158
 botocore~=1.34.158
 moviepy~=1.0.3
 gunicorn
+mysql-connector-python
